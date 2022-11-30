@@ -1,2 +1,2 @@
 # random-file-structure
-Generate random file structure
+Generates random file structure
